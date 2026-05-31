@@ -1,5 +1,14 @@
 {
   "id": "onboarding",
-  "rootBlocks": [],
-  "blocks": {}
+  "rootBlocks": [
+    "3865f99c-e5c2-4dfd-ae07-440b081d0342"
+  ],
+  "blocks": {
+    "3865f99c-e5c2-4dfd-ae07-440b081d0342": {
+      "id": "3865f99c-e5c2-4dfd-ae07-440b081d0342",
+      "parentId": null,
+      "children": [],
+      "type": "text"
+    }
+  }
 }
